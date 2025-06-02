@@ -1,0 +1,8 @@
+running develop
+running egg_info
+writing robotic_arm.egg-info/PKG-INFO
+writing dependency_links to robotic_arm.egg-info/dependency_links.txt
+writing entry points to robotic_arm.egg-info/entry_points.txt
+writing requirements to robotic_arm.egg-info/requires.txt
+writing top-level names to robotic_arm.egg-info/top_level.txt
+error: package directory 'robotic_arm' does not exist
