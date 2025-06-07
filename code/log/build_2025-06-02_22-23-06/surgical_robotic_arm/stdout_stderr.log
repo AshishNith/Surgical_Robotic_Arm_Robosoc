@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating surgical_robotic_arm.egg-info
+writing surgical_robotic_arm.egg-info/PKG-INFO
+writing dependency_links to surgical_robotic_arm.egg-info/dependency_links.txt
+writing entry points to surgical_robotic_arm.egg-info/entry_points.txt
+writing requirements to surgical_robotic_arm.egg-info/requires.txt
+writing top-level names to surgical_robotic_arm.egg-info/top_level.txt
+writing manifest file 'surgical_robotic_arm.egg-info/SOURCES.txt'
+reading manifest file 'surgical_robotic_arm.egg-info/SOURCES.txt'
+writing manifest file 'surgical_robotic_arm.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ashish/My_Lab/ROS/surgical_robotic_arm/install/surgical_robotic_arm/lib/python3.10/site-packages/surgical-robotic-arm.egg-link (link to .)
+Installing inverse_kinematics script to /home/ashish/My_Lab/ROS/surgical_robotic_arm/install/surgical_robotic_arm/lib/surgical_robotic_arm
+
+Installed /home/ashish/My_Lab/ROS/surgical_robotic_arm/build/surgical_robotic_arm
+running symlink_data
+creating /home/ashish/My_Lab/ROS/surgical_robotic_arm/install/surgical_robotic_arm/share/ament_index/resource_index/packages
+symbolically linking /home/ashish/My_Lab/ROS/surgical_robotic_arm/build/surgical_robotic_arm/resource/surgical_robotic_arm -> /home/ashish/My_Lab/ROS/surgical_robotic_arm/install/surgical_robotic_arm/share/ament_index/resource_index/packages
+symbolically linking /home/ashish/My_Lab/ROS/surgical_robotic_arm/build/surgical_robotic_arm/package.xml -> /home/ashish/My_Lab/ROS/surgical_robotic_arm/install/surgical_robotic_arm/share/surgical_robotic_arm
+creating /home/ashish/My_Lab/ROS/surgical_robotic_arm/install/surgical_robotic_arm/share/surgical_robotic_arm/launch
+symbolically linking /home/ashish/My_Lab/ROS/surgical_robotic_arm/build/surgical_robotic_arm/launch/display.launch.py -> /home/ashish/My_Lab/ROS/surgical_robotic_arm/install/surgical_robotic_arm/share/surgical_robotic_arm/launch
+creating /home/ashish/My_Lab/ROS/surgical_robotic_arm/install/surgical_robotic_arm/share/surgical_robotic_arm/urdf
+symbolically linking /home/ashish/My_Lab/ROS/surgical_robotic_arm/build/surgical_robotic_arm/urdf/robotic_arm.urdf -> /home/ashish/My_Lab/ROS/surgical_robotic_arm/install/surgical_robotic_arm/share/surgical_robotic_arm/urdf
