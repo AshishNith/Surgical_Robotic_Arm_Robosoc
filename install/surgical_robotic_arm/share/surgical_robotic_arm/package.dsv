@@ -1,9 +1,0 @@
-source;share/surgical_robotic_arm/hook/pythonpath.ps1
-source;share/surgical_robotic_arm/hook/pythonpath.dsv
-source;share/surgical_robotic_arm/hook/pythonpath.sh
-source;share/surgical_robotic_arm/hook/ament_prefix_path.ps1
-source;share/surgical_robotic_arm/hook/ament_prefix_path.dsv
-source;share/surgical_robotic_arm/hook/ament_prefix_path.sh
-source;../../build/surgical_robotic_arm/share/surgical_robotic_arm/hook/pythonpath_develop.ps1
-source;../../build/surgical_robotic_arm/share/surgical_robotic_arm/hook/pythonpath_develop.dsv
-source;../../build/surgical_robotic_arm/share/surgical_robotic_arm/hook/pythonpath_develop.sh
