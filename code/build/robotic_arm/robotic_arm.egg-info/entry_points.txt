@@ -1,2 +1,0 @@
-[console_scripts]
-inverse_kinematics = surgical_robotic_arm.inverse_kinematics:main
